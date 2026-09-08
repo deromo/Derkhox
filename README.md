@@ -1,69 +1,94 @@
-<div align="center">
+<img src="assets/banner.svg" width="100%" alt="Derek Romo — Software Developer. Always learning, always building.">
 
-# Derek Romo Flores
-
-**Software Developer · .NET Backend · Healthcare Systems**
-
-Building software that turns everyday hospital workflows into reliable web applications.
-
-Torreón, Mexico · Computer Systems Engineering student
-
-[Email](mailto:derekromoflores@gmail.com) · [Public repositories](https://github.com/Derkhox?tab=repositories)
-
-</div>
+<p align="center">
+<b>Computer Systems Engineering student at Instituto Tecnológico de la Laguna</b><br>
+Torreón, Mexico 🇲🇽
+</p>
 
 ---
 
-### About me
+<table>
+<tr>
+<td width="65%" valign="top">
 
-I'm a software development intern at **Sanatorio Español de Torreón** and a Computer Systems Engineering student at **Instituto Tecnológico de la Laguna**.
+## 👋 About me
 
-Since January 2025, I've worked on the end-to-end development of **three hospital systems now in production**, replacing workflows previously handled in Excel, legacy Web Forms applications, and paper. My main focus is C# and ASP.NET Core: API design, data modeling, authorization, auditability, and real-time integrations.
+Hi, I'm Derek! I'm a software developer and Computer Systems Engineering student who enjoys turning everyday problems into useful applications.
 
-### Professional experience
+I work mainly with **C# and .NET**, building software for the healthcare sector. I've also collaborated on **ARMON-IA / EUCLID**, an AI wellbeing project, contributing to its biometrics backend.
 
-**Software Development Intern · Sanatorio Español de Torreón**  
-January 2025 – Present
+### 🌱 What I'm up to
 
-| System | My work |
-| --- | --- |
-| **Hospital shift handover** | Developed a web platform for bed census, clinical and administrative records, and daily handover closing, replacing a shared Excel workflow. Implemented permission-based access, concurrency controls, and auditable records. |
-| **Medical prescription management** | Migrated a legacy Web Forms application to Razor Pages and a secured API. Built prescription issuing and printing, site-specific numbering, physician validation, analytics, and auditing. |
-| **Real-time maternity monitoring** | Built an ingestion API, SignalR hub, and admissions panel to connect SAP-recorded birth events with waiting-room announcements, with privacy controls. |
+- 🏥 Developing hospital applications at **Sanatorio Español de Torreón**.
+- 🎓 Studying Computer Systems Engineering at **Tec de la Laguna**.
+- 🛠️ Building with .NET and working with Python and AI tools through projects.
 
-Across these systems, I've worked with **Clean Architecture**, separate API and web hosts, **EF Core**, **SQL Server**, **SAP ECC integrations**, and server-side authorization.
+</td>
+<td width="35%" valign="top">
 
-*These are employer-owned systems. This profile summarizes my contributions; source code, internal documentation, and clinical data are not published here.*
+## 📬 Let's connect
 
-### Additional experience
+[![Email](https://img.shields.io/badge/Email_me-182438?style=for-the-badge&logo=gmail&logoColor=67E8F9)](mailto:derekromoflores@gmail.com)
 
-**ARMON-IA · EUCLID — AI wellbeing platform**  
-Python · FastAPI · Pydantic · LangChain · LangGraph · Gemini
+[![GitHub](https://img.shields.io/badge/deromo-182438?style=for-the-badge&logo=github&logoColor=67E8F9)](https://github.com/deromo)
 
-As part of a six-engineer team, I owned the backend biometrics module: authenticated smartwatch ingestion, validation, and persistence of heart-rate and sleep readings with explicit patient consent. I also built an HR/HRV-based stress analysis path, a tool for retrieving recent readings, and per-patient coverage metrics for the agent workflow.
+**Based in**  
+Torreón, Mexico
 
-### Toolbox
+</td>
+</tr>
+</table>
 
-| Area | Technologies |
-| --- | --- |
-| **Backend** | C#, .NET, ASP.NET Core, Razor Pages, Minimal APIs, EF Core, SignalR |
-| **Data** | SQL Server, T-SQL, PostgreSQL, MySQL |
-| **Python & AI** | Python, FastAPI, Pydantic, LangChain, LangGraph, Google Gemini |
-| **Architecture & quality** | Clean Architecture, REST, RBAC, JWT, ASP.NET Identity, auditing, optimistic concurrency, xUnit |
-| **Web & workflow** | JavaScript, HTML/CSS, Git, GitHub, Visual Studio, Jira, Confluence |
+## 💼 A little about my work
 
-### Public work
+I've helped bring **three hospital systems into production**, making daily work easier for staff—from shift handovers and prescriptions to real-time maternity announcements.
 
-[**Notebooks**](https://github.com/Derkhox/Notebooks) — A browser-based tool for combining exported HTML notebooks or PDF files into one document, ready to save as a PDF.
+Most of that work belongs to my employer, so those projects stay private. Here you'll find my public projects and the things I'm learning along the way.
 
-### Education
+## 💻 Tech stack
 
-**B.Eng. in Computer Systems Engineering — in progress**  
-Instituto Tecnológico de la Laguna · 2023 – Present
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Technical High School Diploma in Information Technologies**  
-Universidad MEZE · 2019 – 2022
+### Languages
+
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-276E90?style=for-the-badge)
+
+### Backend
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & AI
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Something I've built
+
+### [Notebooks](https://github.com/deromo/Notebooks)
+
+A browser tool to combine exported notebooks or PDFs into a single document.
 
 ---
 
-Interested in my work? [Get in touch](mailto:derekromoflores@gmail.com).
+<p align="center">Thanks for stopping by ✨</p>
